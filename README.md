@@ -5,6 +5,7 @@ I'm a **Frontend Developer**,
 Right now I enjoy working with
 - Flutter
 - React - Next Js
+- Sanity
 - Python - Django
 
 Currently Learning a few Backend dev, particularly 
