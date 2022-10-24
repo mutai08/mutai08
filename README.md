@@ -4,15 +4,16 @@ I'm a **Frontend Developer**,
 
 Right now I enjoy working with
 - Flutter
-- React - Next Js
+- React (Next Js)
 - Sanity
-- Python - Django
+- Python (Django)
+- PostgresSQL
 
 Currently Learning a few Backend dev, particularly 
+- C#
 - Node.js
 - PHP Core
 - API (Daraja)
-- MySQL and PostgresSQL
 
 
 And Some Hybrid Mobile App Development using 
