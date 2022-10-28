@@ -47,7 +47,7 @@ I'm **Mutai Patrick, Software Engineer**.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mutai08)
-<img height=”180em” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=username&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutai08&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 Am also a big fan of POS, Cloud Computing & Cyber Security that will be my final landing point.
 My ambition is to provide seamless, and easy to use projects that will help people, the best way possible in their daily needs. 
