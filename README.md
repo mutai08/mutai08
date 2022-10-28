@@ -5,9 +5,19 @@ I'm **Mutai Patrick, Software Engineer**.
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mutai-patrick/) 
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/iammutahi/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_.mutai/)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/mutai08/)
+
+**I love solving problems using Object Oriented Programming.**
+
+**Also, I love starting new Projects.**
+
+**Currently, I'm working on with Next.js framework to develop Frontend websites.**
+
+**Talking about personal stuffs:
+
+![](https://tokei.rs/b1/github/mutai08/marsyetu?category=code) ![](https://tokei.rs/b1/github/mutai08/marsyetu?category=blanks) ![](https://tokei.rs/b1/github/mutai08/marsyetu?category=files)
 
 **Tech Stacks**
 
@@ -17,6 +27,7 @@ I'm **Mutai Patrick, Software Engineer**.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 |   Learning
 
