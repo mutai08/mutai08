@@ -10,7 +10,7 @@ I'm **Mutai Patrick, Software Engineer**.
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/mutai08/)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?mutai08=mutai08)
+![visitors](https://github.com-badge.glitch.me/badge?mutai08=mutai08)
 
 Right now I enjoy working with
 - Flutter
