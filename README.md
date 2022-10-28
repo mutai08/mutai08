@@ -9,6 +9,9 @@ I'm **Mutai Patrick, Software Engineer**.
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/mutai08/)
 
+
+![visitors](https://visitor-badge.glitch.me/badge?username=mutai08)
+
 Right now I enjoy working with
 - Flutter
 - React (Next Js)
