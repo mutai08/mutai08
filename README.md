@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Mutai Patrick, Software Engineer**.
+I'm **Mutai Patrick Software Engineer.**
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mutai-patrick/) 
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/iammutahi/)
@@ -15,9 +15,8 @@ I'm **Mutai Patrick, Software Engineer**.
 
 **Currently, I'm working on with Next.js framework to develop Frontend websites.**
 
-**Talking about personal stuffs:
-
 ![](https://tokei.rs/b1/github/mutai08/marsyetu?category=code) ![](https://tokei.rs/b1/github/mutai08/marsyetu?category=blanks) ![](https://tokei.rs/b1/github/mutai08/marsyetu?category=files)
+
 
 **Tech Stacks**
 
@@ -51,10 +50,14 @@ I'm **Mutai Patrick, Software Engineer**.
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-|   Version Control
-
 
 |   Hosting
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mutai08)
