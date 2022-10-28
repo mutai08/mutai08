@@ -10,13 +10,12 @@ I'm **Mutai Patrick, Software Engineer**.
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/mutai08/)
 
 
-![github](https://github.com-badge.glitch.me/badge?mutai08=mutai08)
+**Languages**
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
-Right now I enjoy working with
-- Flutter
-- React (Next Js)
-- Sanity
-- Python (Django)
 - PostgresSQL
 
 Currently Learning a few Backend dev, particularly 
@@ -24,6 +23,10 @@ Currently Learning a few Backend dev, particularly
 - Node.js
 - PHP Core
 - API (Daraja)
+
+
+**Framework**
+
 
 
 And Some Hybrid Mobile App Development using 
