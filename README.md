@@ -22,17 +22,23 @@ I'm **Mutai Patrick, Software Engineer**.
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - PHP Core
 - API (Daraja)
 
 
-**Framework*
-
+|   Framework
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-And Some Hybrid Mobile App Development using 
-- React Native & Angular Js
+|   Backend and Database
+
+
+|   Version Control
+
+
+|   Hosting
 
 Am also a big fan of POS, Cloud Computing & Cyber Security that will be my final landing point.
 My ambition is to provide seamless, and easy to use projects that will help people, the best way possible in their daily needs. 
@@ -40,17 +46,3 @@ My ambition is to provide seamless, and easy to use projects that will help peop
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mutai08)
 
-<!--
-**mutai08/mutai08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
