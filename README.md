@@ -12,7 +12,7 @@ I'm **Mutai Patrick, Software Engineer.**
 
 **Also, I love starting new Projects.**
 
-**Currently, I'm working on with Next.js framework to develop Frontend websites.**
+**Currently, I'm working on with Next.js framework to develop Frontend websites and C# to develop cross-platform Applications**
 
 
 ![](https://tokei.rs/b1/github/mutai08/marsyetu?category=code)![](https://tokei.rs/b1/github/mutai08/marsyetu?category=blanks)![](https://tokei.rs/b1/github/mutai08/marsyetu?category=files)
